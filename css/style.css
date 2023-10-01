@@ -526,7 +526,8 @@ h6,
 }
 
 .bg-header {
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/carousel-1.jpg) center center no-repeat;
+    /* background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/carousel-1.jpg) center center no-repeat; */
+    background: linear-gradient(rgb(40 78 43 / 43%), rgb(29 114 40 / 49%)), url(../img/carousel-1.jpg) center center no-repeat;
     background-size: cover;
 }
 

@@ -5148,7 +5148,7 @@ fieldset:disabled .btn {
 .page-link {
     position: relative;
     display: block;
-    color: #06A3DA;
+    color: #34ad54;
     background-color: #fff;
     border: 1px solid #dee2e6;
     transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out
@@ -5162,14 +5162,14 @@ fieldset:disabled .btn {
 
 .page-link:hover {
     z-index: 2;
-    color: #0582ae;
+    color: #34ad54;
     background-color: #e9ecef;
     border-color: #dee2e6
 }
 
 .page-link:focus {
     z-index: 3;
-    color: #0582ae;
+    color: #34ad54;
     background-color: #e9ecef;
     outline: 0;
     box-shadow: 0 0 0 .25rem rgba(6, 163, 218, 0.25)
@@ -5182,8 +5182,8 @@ fieldset:disabled .btn {
 .page-item.active .page-link {
     z-index: 3;
     color: #fff;
-    background-color: #06A3DA;
-    border-color: #06A3DA
+    background-color: #34ad54;
+    border-color: #34ad54
 }
 
 .page-item.disabled .page-link {
